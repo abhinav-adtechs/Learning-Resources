@@ -2,6 +2,7 @@
 
 - [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
+- [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter.
 
 ### Debug 
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
@@ -23,6 +24,7 @@
 - [Material Color Generator] (http://knizia.biz/mcg/) Select Main color for your app theme and rest will be generated accordingly.
 - [Sort Text Lines] (http://textmechanic.com/text-tools/basic-text-tools/sort-text-lines/) Enter your text/list for sorting here.
 - [Performance Analysis of App] (http://www.monkop.com/) Get a detailed analysis about performance, security and functionality.
+- [Material Palette Generator] (http://www.materialpalette.com/) Choose your favorite colors and get your Material Design palette generated and downloadable.
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
